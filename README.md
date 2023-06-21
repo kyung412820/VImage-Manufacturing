@@ -1,7 +1,7 @@
 <br>
 
 
-# [VImage Manufacturing] 비디오, 이미지 가공 툴
+# [VImage Manufacturing] 비디오, 이미지 가공, 업스케일링 툴
 
 <br>
 
