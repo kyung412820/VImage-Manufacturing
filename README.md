@@ -12,9 +12,9 @@
  - [개발 환경](#개발-환경)
  - [사용 기술](#사용-기술)
  - [핵심 기능](#핵심-기능)
-   - [Web](#web)
-   - [Deep Learning](#deep-learning)
-   - [Text Mining](#text-mining)
+   - [업스케일링](#업스케일링)
+   - [이미지 가공](#이미지 가공)
+   - [비디오 이미지 분할](#비디오 이미지 분할)
  - [Trouble Shooting](#trouble-shooting)
 
 
